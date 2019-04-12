@@ -16,6 +16,4 @@ public class Test {
 
     private String job;
 
-    private String school;
-
 }
