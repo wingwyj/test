@@ -14,4 +14,6 @@ public class Test {
 
     private String gender;
 
+    private String job;
+
 }
