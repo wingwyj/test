@@ -12,8 +12,7 @@ public class Test {
 
     private String address;
 
-    private String gender;
-
     private String job;
+
 
 }
