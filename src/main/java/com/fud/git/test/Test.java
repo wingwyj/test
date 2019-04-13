@@ -15,6 +15,6 @@ public class Test {
     private String job; // hahh
 
 
-    private String ss;   // 现住址
+    private String ss;
 
 }
