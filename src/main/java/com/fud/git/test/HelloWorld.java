@@ -32,13 +32,7 @@ public class HelloWorld {
          * huhuhuhuhu
          */
 
-        /**
-         * test o1
-         */
 
-        /**
-         * lallalal
-         */
 
     }
 }
